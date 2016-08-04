@@ -11,3 +11,4 @@ http://flukeout.github.io/
 http://httpbin.org/
 http://camp.qbane.club/common-2.html
 http://camp.qbane.club/common-3.html
+https://jsfiddle.net/
