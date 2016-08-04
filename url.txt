@@ -15,3 +15,4 @@ https://jsfiddle.net/
 https://jsbin.com/
 http://www.color-hex.com/
 https://github.com/bobby1030/slides
+http://code.jquery.com/
